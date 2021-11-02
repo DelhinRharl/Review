@@ -2,7 +2,6 @@
 
 # Project Name
 
-This is a review of the applicaction Project i made during the application. the project is a product review and the page includes embeded video. it also includes pictures of the product
 
 ![screenshot](./images/productreview.png)
 
@@ -11,6 +10,7 @@ This is a review of the applicaction Project i made during the application. the 
 
 HTML
 CSS
+
 
 
 ### Prerequisites
